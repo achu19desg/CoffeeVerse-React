@@ -46,7 +46,7 @@ In this project, React is used to create separate components for the Hero sectio
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CoffeeVerse-Landing-Page.git
+git clone https://github.com/achu19desg/CoffeeVerse-React.git
 ```
 
 Navigate to the project folder:
