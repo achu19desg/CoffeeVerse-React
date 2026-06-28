@@ -6,6 +6,10 @@ CoffeeVerse is a modern coffee shop landing page developed using **React** and *
 
 https://coffeeverse-react.netlify.app/
 
+## 📸 Screenshot
+
+![CoffeeVerse Homepage](coffee.png)
+
 ## 📖 About React
 
 React is an open-source JavaScript library used for building fast and interactive user interfaces. It follows a component-based architecture, allowing developers to divide a web application into smaller, reusable components. This improves code organization, readability, and maintainability.
