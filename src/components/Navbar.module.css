@@ -1,0 +1,29 @@
+.navbar{
+    background-color: rgb(69, 35, 6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:xx-large;
+    font-weight: 500;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    color:aliceblue;
+    box-shadow: 10px 10px 20px black;
+   
+}
+
+.navlinks{
+    font-size:large;
+    display: flex;
+    gap: 100px;
+    list-style: none;
+}
+
+.navlinks li{
+    cursor: pointer;
+}
+
+.navlinks li:hover{
+    color: rgb(207, 161, 10);
+}
+

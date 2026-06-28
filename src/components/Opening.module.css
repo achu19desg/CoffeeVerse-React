@@ -1,0 +1,19 @@
+.opening{
+      background:linear-gradient(to right, #4b2f1d, #e0a339, #431c0b);
+    text-align: center;
+    width: 60%;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.opening h4{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(53, 26, 2);
+}
+
+.opening p{
+    font-size: x-large;
+}

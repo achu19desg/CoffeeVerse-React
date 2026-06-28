@@ -1,0 +1,41 @@
+.card  {
+    background-color: beige;
+    justify-content: space-between;
+    display: flex;
+    width:1000px;
+    margin: 80px auto;
+    padding: 40px;
+    
+}
+
+
+.content{
+    width: 40%;
+    text-align: center;
+    
+}
+.card h1{
+    font-weight: lighter;
+}
+
+.card p{
+    font-size: larger;
+    text-align: center;
+}
+
+.card button{
+    background-color: rgb(216, 155, 81);
+    padding: 15px 25px;
+    border: none;
+    font-size: medium;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.card img{
+    width: 500px;
+    height: 400px;
+    object-fit: none;
+}

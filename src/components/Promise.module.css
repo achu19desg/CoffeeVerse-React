@@ -1,0 +1,27 @@
+.promise{
+    background:linear-gradient(to right, #310b04, #401405, #4e3026);
+
+    padding: 60px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.content{
+    background-color: aliceblue;
+    width: 60%;
+    padding: 50px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgb(208, 190, 190);
+}
+.content h4{
+    font-size: larger;
+}
+.content h1{
+    font-weight: lighter;
+    font-size:xx-large;
+}
+
+.content p{
+    font-size: large;
+}
