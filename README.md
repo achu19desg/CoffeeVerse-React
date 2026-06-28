@@ -4,7 +4,7 @@ CoffeeVerse is a modern coffee shop landing page developed using **React** and *
 
 ## 🌐 Live Demo
 
-https://your-netlify-link.netlify.app
+https://coffeeverse-react.netlify.app/
 
 ## 📖 About React
 
